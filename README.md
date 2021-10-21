@@ -31,6 +31,11 @@ Source: [telegram-theme](https://t.me/addtheme/nord_colors)
 
 ![telegram](src/telegram.png)
 
+### Arc Menu
+Source: [stylesheet](src/arcmenu-stylesheet.css)
+
+![arcmenu](src/arcmenu.png)
+
 ## Miscellaneous
 
 ### Extensions
