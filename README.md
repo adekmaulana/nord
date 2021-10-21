@@ -31,6 +31,8 @@ Source: [telegram-theme](https://t.me/addtheme/nord_colors)
 
 ![telegram](src/telegram.png)
 
+## Miscellaneous
+
 ### Extensions
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Big Sur Status Area](https://extensions.gnome.org/extension/4085/big-sur-status-area/)
@@ -39,8 +41,6 @@ Source: [telegram-theme](https://t.me/addtheme/nord_colors)
 - [Desktop Icons: Neo](https://extensions.gnome.org/extension/4337/desktop-icons-neo/)
 - [fluoroom's Top Bar](https://extensions.gnome.org/extension/4350/fluorooms-top-bar/), with a little changes.
 - [Rounded Corners](https://extensions.gnome.org/extension/1514/rounded-corners/)
-
-## Miscellaneous
 
 ### Font Family
 `SF Pro Display`
