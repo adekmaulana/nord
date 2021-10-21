@@ -31,7 +31,7 @@ Source: [telegram-theme](https://t.me/addtheme/nord_colors)
 
 ![telegram](src/telegram.png)
 
-### Extentions
+### Extensions
 - [ArcMenu](https://extensions.gnome.org/extension/3628/arcmenu/)
 - [Big Sur Status Area](https://extensions.gnome.org/extension/4085/big-sur-status-area/)
 - [Colored Application Menu Icon](https://extensions.gnome.org/extension/4408/app-menu-icon-remove-symbolic/)
@@ -40,13 +40,14 @@ Source: [telegram-theme](https://t.me/addtheme/nord_colors)
 - [fluoroom's Top Bar](https://extensions.gnome.org/extension/4350/fluorooms-top-bar/), with a little changes.
 - [Rounded Corners](https://extensions.gnome.org/extension/1514/rounded-corners/)
 
-### Font Family
+## Miscellaneous
 
+### Font Family
 `SF Pro Display`
 
-### Miscellaneous
+### Wallpapers
+- [Wallpapers](https://github.com/dxnst/nord-wallpapers)
 
-[Wallpapers](https://github.com/dxnst/nord-wallpapers)
-
-Others: [awesome-nord](https://github.com/Aceto1/awesome-nord)
+### Others
+- [awesome-nord](https://github.com/Aceto1/awesome-nord)
 
