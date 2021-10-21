@@ -53,6 +53,12 @@ Source: [stylesheet](src/arcmenu-stylesheet.css)
 ### Wallpapers
 - [Wallpapers](https://github.com/dxnst/nord-wallpapers)
 
+### Icon Theme
+- [WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme)
+
+### Gnome Shell Theme
+- [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+
 ### Others
 - [awesome-nord](https://github.com/Aceto1/awesome-nord)
 
