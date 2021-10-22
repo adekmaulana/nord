@@ -59,6 +59,9 @@ Source: [stylesheet](src/arcmenu-stylesheet.css)
 ### Gnome Shell Theme
 - [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 
+### Gnome WM Theme
+- [Nordic](https://github.com/EliverLara/Nordic)
+
 ### Others
 - [awesome-nord](https://github.com/Aceto1/awesome-nord)
 
